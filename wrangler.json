@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "credit-cashier-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "fd3fa13b-3e8e-42a0-8a1b-5fa7b4f9d128",
+      "database_name": "creditstock"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
